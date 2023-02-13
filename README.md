@@ -10,7 +10,6 @@
   - [B. Carritos:](#b-carritos)
   - [C. Ordenes:](#c-ordenes)
   - [D. Usuario:](#d-usuario)
-  - [Railway link](#railway-link)
 # Resúmen
 
 Esta es una API RESTful desarrollada con NodeJS y ExpressJS que cuenta con una capa básica de frontend 
@@ -143,4 +142,4 @@ Las funcionalidades principales son:
     ```localhost:8080/profile```
 
 
-## [Railway link]((https://bebidasscript-production.up.railway.app/))
+ ***[Railway link](https://bebidasscript-production.up.railway.app/)***
