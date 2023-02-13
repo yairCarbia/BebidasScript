@@ -22,9 +22,9 @@ Las funcionalidades principales son:
 3. Agregado de productos al carrito.
 4. Generación de pedido (orden de compra).
 5. Visualización de historial de ordenes generadas.
-6. Envio de alertas de email a una casilla configurable con detalle de orden de
-    compra generada (nodemailer/gmail).
-7. La capa de persistencia de datos se encuentra implementada en Mongo.
+6. Envio de alertas de email con detalle de orden de
+    compra generada y creacion de nuevo usuario (nodemailer/gmail).
+7. La capa de persistencia de datos se encuentra implementada en MongoDb.
    - mongoDB (local o mongo atlas).
 8. Canal de chat basado en websockets
 
@@ -43,6 +43,11 @@ Las funcionalidades principales son:
   npm i | npm install
   ```
 
+- Usuario administrador.
+  ```
+  Usuario:zarpa
+  Pass:123
+  ```
 ## B Ejecución en localhost
   - En el archivo `.env.example` se pueden ver las variables de entorno para correr el proyecto. 
     - El servidor Express puede ser ejecutado mediante el script:
@@ -92,7 +97,7 @@ Las funcionalidades principales son:
   - **Get de producto por id:**
     ```localhost:8080/api/product/:id```
 
-   - **Post de producto (solo para administradores):**
+   - **Post de producto :**
     ```localhost:8080/api/product```
 
   - **Put de producto (solo para administradores):**
@@ -106,8 +111,13 @@ Las funcionalidades principales son:
 
 
 ## B. Carritos:
+  - **Get de todos los productos en carrito:**
+      ```localhost:8080/api/cart```
+  - **Get de todos los productos en carrito por id:**
+      ```localhost:8080/api/cart/:id/product```
+
   - **Post de creación de carrito vacío con id de cliente:** 
-    ```localhost:8080/api/cart/clientId```
+    ```localhost:8080/api/cart```
 
   - **Delete de carrito por id de carrito del mismo:** 
     ```localhost:8080/api/cart/:id```
