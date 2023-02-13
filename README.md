@@ -143,4 +143,4 @@ Las funcionalidades principales son:
     ```localhost:8080/profile```
 
 
-## [Railway link]([#proyecto-final--bebidasscript](https://bebidasscript-production.up.railway.app/))
+## [Railway link]((https://bebidasscript-production.up.railway.app/))
