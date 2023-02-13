@@ -51,7 +51,7 @@ Las funcionalidades principales son:
 ## B Ejecución en localhost
   - En el archivo `.env.example` se pueden ver las variables de entorno para correr el proyecto. 
     - El servidor Express puede ser ejecutado mediante el script:
-      - `npm run dev` modo desarrollo con las variables de entorno definidas en el archivo `.env`.
+      - `npm run dev` .
       - Luego de poner en en marcha el proyecto, es posible acceder a la siguiente dirección:
     ```localhost:8080/```
 
