@@ -1,0 +1,5863 @@
+2023-02-09T20:41:12.374Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T20:41:18.107Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:41:24.286Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:41:32.265Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:41:32.321Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T20:41:34.383Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:41:35.302Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-09T20:42:38.905Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-09T20:42:41.521Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T20:42:41.955Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:42:44.292Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:43:58.603Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:43:58.667Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T20:43:59.834Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:44:00.646Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-09T20:44:15.897Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-09T20:44:18.451Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T20:44:18.604Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:44:20.237Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:44:29.765Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:44:29.876Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T20:44:31.222Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:44:56.126Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:44:56.250Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T20:44:59.318Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:45:01.161Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:45:54.929Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-09T20:46:21.312Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-09T20:46:23.903Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T20:46:24.064Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:46:35.669Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:46:38.845Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:46:38.955Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T20:46:53.838Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:46:56.122Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:46:56.442Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T20:47:00.202Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:47:01.362Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:47:04.865Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:47:07.000Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:47:07.764Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:47:08.785Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:47:13.669Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:47:14.747Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:47:15.625Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:47:19.120Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:47:19.994Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-09T20:47:20.043Z [32minfo[39m: 	logout successfully
+2023-02-09T20:47:21.870Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:47:22.524Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T20:47:23.435Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:47:30.282Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:47:30.584Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T20:47:54.180Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T20:48:03.225Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T20:55:03.098Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:55:03.100Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-09T20:55:05.104Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:55:12.596Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:55:12.908Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T20:55:18.083Z [32minfo[39m: 	
+  Path url: /api/products
+  Method: GET
+2023-02-09T20:55:18.084Z [31merror[39m: 	
+  State: 404
+  Path url: /api/products
+  Method: GET
+2023-02-09T20:55:23.598Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:55:25.859Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:55:26.797Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:55:35.169Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:55:43.636Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:56:52.278Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T20:56:52.279Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-09T20:56:53.599Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T20:56:56.939Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T20:56:57.244Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T20:57:12.070Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T20:57:14.323Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T20:57:35.609Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T20:57:35.613Z [32minfo[39m: 	producto creado
+2023-02-09T20:57:35.689Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:57:40.706Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-09T20:57:40.996Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:57:43.274Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T20:57:44.050Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:57:47.083Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:57:47.608Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:57:49.486Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T20:57:52.471Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T20:57:53.029Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T20:57:54.853Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-09T20:57:57.377Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T20:57:57.377Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-09T21:39:38.678Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T21:39:45.573Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T21:39:46.891Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T21:39:51.889Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T21:39:52.453Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T21:39:53.629Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T21:39:54.158Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T21:39:54.699Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T21:39:55.084Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T21:39:56.040Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T21:39:56.753Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T21:39:58.226Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-09T21:39:58.277Z [32minfo[39m: 	logout successfully
+2023-02-09T21:40:00.234Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T21:40:01.206Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-09T21:40:28.851Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-09T21:40:31.453Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T21:40:31.601Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T21:40:33.669Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T21:40:37.423Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T21:40:37.728Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T21:40:39.126Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T21:40:40.958Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T21:44:10.672Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-09T21:44:10.673Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-09T21:44:12.695Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:03:39.102Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:03:44.183Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T22:03:44.503Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T22:03:46.330Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:03:52.056Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:03:53.623Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:04:55.079Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T22:04:55.080Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-09T22:04:56.816Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:05:00.261Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T22:05:00.561Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T22:05:01.815Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:05:18.100Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T22:05:18.104Z [32minfo[39m: 	producto creado
+2023-02-09T22:05:18.182Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:05:25.895Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T22:05:30.841Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:05:42.487Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:05:43.930Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:05:44.221Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:05:46.921Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T22:05:47.687Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T22:05:49.832Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-09T22:05:49.878Z [32minfo[39m: 	logout successfully
+2023-02-09T22:05:50.940Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:05:55.881Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T22:05:55.956Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-09T22:05:57.128Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:05:59.057Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T22:05:59.355Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T22:06:01.072Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:06:19.712Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:06:20.967Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:06:33.731Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T22:06:33.733Z [32minfo[39m: 	producto creado
+2023-02-09T22:06:33.808Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:06:42.558Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:06:43.254Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:06:45.853Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:06:47.201Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T22:07:15.584Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-09T22:07:15.586Z [32minfo[39m: 	producto creado
+2023-02-09T22:07:15.666Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:07:18.266Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:07:21.682Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:07:23.197Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-09T22:07:23.241Z [32minfo[39m: 	logout successfully
+2023-02-09T22:07:24.145Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:08:03.440Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T22:08:03.751Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T22:08:04.974Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T22:08:06.514Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T22:08:08.074Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T22:08:08.602Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:10.885Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-09T22:08:11.130Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:12.382Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-09T22:08:12.609Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:13.406Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-09T22:08:13.642Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:14.266Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T22:08:18.360Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-09T22:08:20.783Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-09T22:08:20.784Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-09T22:08:22.376Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:23.474Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:24.046Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T22:08:25.951Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T22:08:27.911Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T22:08:28.688Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T22:08:29.339Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-09T22:08:29.385Z [32minfo[39m: 	logout successfully
+2023-02-09T22:16:05.010Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:16:19.519Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:16:26.800Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:16:40.630Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:17:11.530Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:17:36.144Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:17:39.178Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:17:41.252Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T22:18:16.332Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:18:20.636Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:18:37.614Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T22:18:38.359Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T22:18:43.979Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:18:53.500Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T22:18:54.619Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T22:18:55.478Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T22:19:03.688Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:01:55.412Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:01:55.411Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:02:00.752Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:02:05.265Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T23:02:05.828Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T23:02:15.834Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T23:02:17.322Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-09T23:02:18.311Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-09T23:02:19.638Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-09T23:02:22.157Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T23:02:29.860Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T23:02:55.048Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:02:55.153Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:02:55.154Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:03:11.520Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:03:11.569Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:03:28.005Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:03:28.042Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:03:34.741Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:03:35.063Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:03:35.065Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:03:36.437Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:03:39.899Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-09T23:03:40.243Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T23:03:51.035Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:03:51.054Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:03:51.818Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-09T23:04:27.614Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:04:27.619Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:07:38.402Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:07:38.418Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:02.306Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:08:02.314Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:30.727Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:08:30.756Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:34.902Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:08:34.947Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:42.303Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:08:42.315Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:47.265Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:08:47.283Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:08:53.412Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-09T23:08:53.413Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-09T23:08:54.044Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:08:54.154Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS605
+  Method: GET
+2023-02-09T23:08:54.157Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS605
+  Method: GET
+2023-02-09T23:08:54.173Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS60O
+  Method: POST
+2023-02-09T23:08:54.175Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS60O
+  Method: POST
+2023-02-09T23:08:54.768Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS69j
+  Method: GET
+2023-02-09T23:08:54.770Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS69j
+  Method: GET
+2023-02-09T23:08:54.779Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS69v
+  Method: POST
+2023-02-09T23:08:54.780Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS69v
+  Method: POST
+2023-02-09T23:08:56.142Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS6VA
+  Method: GET
+2023-02-09T23:08:56.143Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS6VA
+  Method: GET
+2023-02-09T23:08:56.153Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS6VN
+  Method: POST
+2023-02-09T23:08:56.154Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS6VN
+  Method: POST
+2023-02-09T23:08:59.341Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS7HA
+  Method: GET
+2023-02-09T23:08:59.342Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS7HA
+  Method: GET
+2023-02-09T23:08:59.350Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS7HK
+  Method: POST
+2023-02-09T23:08:59.351Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS7HK
+  Method: POST
+2023-02-09T23:09:04.154Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS8SO
+  Method: GET
+2023-02-09T23:09:04.155Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS8SO
+  Method: GET
+2023-02-09T23:09:04.165Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS8SY
+  Method: POST
+2023-02-09T23:09:04.165Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS8SY
+  Method: POST
+2023-02-09T23:09:09.783Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS9qJ
+  Method: GET
+2023-02-09T23:09:09.784Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS9qJ
+  Method: GET
+2023-02-09T23:09:09.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS9qY
+  Method: POST
+2023-02-09T23:09:09.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS9qY
+  Method: POST
+2023-02-09T23:09:15.783Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSBI4
+  Method: GET
+2023-02-09T23:09:15.784Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSBI4
+  Method: GET
+2023-02-09T23:09:15.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSBIF
+  Method: POST
+2023-02-09T23:09:15.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSBIF
+  Method: POST
+2023-02-09T23:09:21.782Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSClp
+  Method: GET
+2023-02-09T23:09:21.783Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSClp
+  Method: GET
+2023-02-09T23:09:21.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSCm0
+  Method: POST
+2023-02-09T23:09:21.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSCm0
+  Method: POST
+2023-02-09T23:09:27.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSEDf
+  Method: GET
+2023-02-09T23:09:27.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSEDf
+  Method: GET
+2023-02-09T23:09:27.799Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSEDq
+  Method: POST
+2023-02-09T23:09:27.800Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSEDq
+  Method: POST
+2023-02-09T23:09:33.782Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSFhJ
+  Method: GET
+2023-02-09T23:09:33.782Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSFhJ
+  Method: GET
+2023-02-09T23:09:33.792Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSFhT
+  Method: POST
+2023-02-09T23:09:33.794Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSFhT
+  Method: POST
+2023-02-09T23:09:39.787Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSH98
+  Method: GET
+2023-02-09T23:09:39.787Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSH98
+  Method: GET
+2023-02-09T23:09:39.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSH9J
+  Method: POST
+2023-02-09T23:09:39.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSH9J
+  Method: POST
+2023-02-09T23:09:45.783Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSIcq
+  Method: GET
+2023-02-09T23:09:45.783Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSIcq
+  Method: GET
+2023-02-09T23:09:45.798Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSId2
+  Method: POST
+2023-02-09T23:09:45.799Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSId2
+  Method: POST
+2023-02-09T23:09:51.774Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSK4R
+  Method: GET
+2023-02-09T23:09:51.774Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSK4R
+  Method: GET
+2023-02-09T23:09:51.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSK4c
+  Method: POST
+2023-02-09T23:09:51.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSK4c
+  Method: POST
+2023-02-09T23:09:57.779Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSLYF
+  Method: GET
+2023-02-09T23:09:57.779Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSLYF
+  Method: GET
+2023-02-09T23:09:57.787Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSLYQ
+  Method: POST
+2023-02-09T23:09:57.788Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSLYQ
+  Method: POST
+2023-02-09T23:10:03.775Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSM_z
+  Method: GET
+2023-02-09T23:10:03.776Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSM_z
+  Method: GET
+2023-02-09T23:10:03.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSN06
+  Method: POST
+2023-02-09T23:10:03.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSN06
+  Method: POST
+2023-02-09T23:10:09.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSOTk
+  Method: GET
+2023-02-09T23:10:09.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSOTk
+  Method: GET
+2023-02-09T23:10:09.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSOTt
+  Method: POST
+2023-02-09T23:10:09.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSOTt
+  Method: POST
+2023-02-09T23:10:15.789Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSPxd
+  Method: GET
+2023-02-09T23:10:15.790Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSPxd
+  Method: GET
+2023-02-09T23:10:15.798Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSPxr
+  Method: POST
+2023-02-09T23:10:15.800Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSPxr
+  Method: POST
+2023-02-09T23:10:21.779Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSRPG
+  Method: GET
+2023-02-09T23:10:21.780Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSRPG
+  Method: GET
+2023-02-09T23:10:21.800Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSRPc
+  Method: POST
+2023-02-09T23:10:21.802Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSRPc
+  Method: POST
+2023-02-09T23:10:27.786Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSSt8
+  Method: GET
+2023-02-09T23:10:27.787Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSSt8
+  Method: GET
+2023-02-09T23:10:27.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSStH
+  Method: POST
+2023-02-09T23:10:27.795Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSStH
+  Method: POST
+2023-02-09T23:10:33.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSUKw
+  Method: GET
+2023-02-09T23:10:33.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSUKw
+  Method: GET
+2023-02-09T23:10:33.798Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSUL4
+  Method: POST
+2023-02-09T23:10:33.799Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSUL4
+  Method: POST
+2023-02-09T23:10:39.781Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSVoY
+  Method: GET
+2023-02-09T23:10:39.782Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSVoY
+  Method: GET
+2023-02-09T23:10:39.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSVol
+  Method: POST
+2023-02-09T23:10:39.794Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSVol
+  Method: POST
+2023-02-09T23:10:45.778Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSXGF
+  Method: GET
+2023-02-09T23:10:45.779Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSXGF
+  Method: GET
+2023-02-09T23:10:45.786Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSXGO
+  Method: POST
+2023-02-09T23:10:45.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSXGO
+  Method: POST
+2023-02-09T23:10:51.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSYkA
+  Method: GET
+2023-02-09T23:10:51.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSYkA
+  Method: GET
+2023-02-09T23:10:51.796Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSYkI
+  Method: POST
+2023-02-09T23:10:51.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSYkI
+  Method: POST
+2023-02-09T23:10:57.789Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSaBw
+  Method: GET
+2023-02-09T23:10:57.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSaBw
+  Method: GET
+2023-02-09T23:10:57.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSaC3
+  Method: POST
+2023-02-09T23:10:57.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSaC3
+  Method: POST
+2023-02-09T23:11:03.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSbff
+  Method: GET
+2023-02-09T23:11:03.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSbff
+  Method: GET
+2023-02-09T23:11:03.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSbfo
+  Method: POST
+2023-02-09T23:11:03.796Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSbfo
+  Method: POST
+2023-02-09T23:11:09.781Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSd7J
+  Method: GET
+2023-02-09T23:11:09.782Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSd7J
+  Method: GET
+2023-02-09T23:11:09.791Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSd7T
+  Method: POST
+2023-02-09T23:11:09.792Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSd7T
+  Method: POST
+2023-02-09T23:11:15.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSeb5
+  Method: GET
+2023-02-09T23:11:15.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSeb5
+  Method: GET
+2023-02-09T23:11:15.796Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSebF
+  Method: POST
+2023-02-09T23:11:15.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSebF
+  Method: POST
+2023-02-09T23:11:21.786Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSg2t
+  Method: GET
+2023-02-09T23:11:21.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSg2t
+  Method: GET
+2023-02-09T23:11:21.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSg31
+  Method: POST
+2023-02-09T23:11:21.795Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSg31
+  Method: POST
+2023-02-09T23:11:27.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuShWU
+  Method: GET
+2023-02-09T23:11:27.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuShWU
+  Method: GET
+2023-02-09T23:11:27.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuShWd
+  Method: POST
+2023-02-09T23:11:27.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuShWd
+  Method: POST
+2023-02-09T23:11:33.780Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSi-I
+  Method: GET
+2023-02-09T23:11:33.781Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSi-I
+  Method: GET
+2023-02-09T23:11:33.787Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSi-Q
+  Method: POST
+2023-02-09T23:11:33.788Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSi-Q
+  Method: POST
+2023-02-09T23:11:39.790Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSkSA
+  Method: GET
+2023-02-09T23:11:39.790Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSkSA
+  Method: GET
+2023-02-09T23:11:39.806Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSkST
+  Method: POST
+2023-02-09T23:11:39.807Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSkST
+  Method: POST
+2023-02-09T23:11:45.779Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSlvn
+  Method: GET
+2023-02-09T23:11:45.780Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSlvn
+  Method: GET
+2023-02-09T23:11:45.790Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSlvx
+  Method: POST
+2023-02-09T23:11:45.791Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSlvx
+  Method: POST
+2023-02-09T23:11:51.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSnNc
+  Method: GET
+2023-02-09T23:11:51.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSnNc
+  Method: GET
+2023-02-09T23:11:51.800Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSnNr
+  Method: POST
+2023-02-09T23:11:51.800Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSnNr
+  Method: POST
+2023-02-09T23:11:57.789Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSorQ
+  Method: GET
+2023-02-09T23:11:57.791Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSorQ
+  Method: GET
+2023-02-09T23:11:57.800Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSorb
+  Method: POST
+2023-02-09T23:11:57.801Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSorb
+  Method: POST
+2023-02-09T23:12:03.780Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSqJ1
+  Method: GET
+2023-02-09T23:12:03.780Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSqJ1
+  Method: GET
+2023-02-09T23:12:03.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSqJA
+  Method: POST
+2023-02-09T23:12:03.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSqJA
+  Method: POST
+2023-02-09T23:12:09.781Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSrmo
+  Method: GET
+2023-02-09T23:12:09.782Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSrmo
+  Method: GET
+2023-02-09T23:12:09.790Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSrmy
+  Method: POST
+2023-02-09T23:12:09.791Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSrmy
+  Method: POST
+2023-02-09T23:12:16.454Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:12:16.471Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:12:16.557Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuStEd
+  Method: GET
+2023-02-09T23:12:16.558Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuStEd
+  Method: GET
+2023-02-09T23:12:16.584Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuStR2
+  Method: POST
+2023-02-09T23:12:16.585Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuStR2
+  Method: POST
+2023-02-09T23:12:21.787Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSuiO
+  Method: GET
+2023-02-09T23:12:21.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSuiO
+  Method: GET
+2023-02-09T23:12:21.799Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSuia
+  Method: POST
+2023-02-09T23:12:21.800Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSuia
+  Method: POST
+2023-02-09T23:12:27.783Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSwA1
+  Method: GET
+2023-02-09T23:12:27.784Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSwA1
+  Method: GET
+2023-02-09T23:12:27.796Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSwAF
+  Method: POST
+2023-02-09T23:12:27.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSwAF
+  Method: POST
+2023-02-09T23:12:33.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSxds
+  Method: GET
+2023-02-09T23:12:33.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSxds
+  Method: GET
+2023-02-09T23:12:33.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSxe0
+  Method: POST
+2023-02-09T23:12:33.795Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSxe0
+  Method: POST
+2023-02-09T23:12:39.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSz5f
+  Method: GET
+2023-02-09T23:12:39.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSz5f
+  Method: GET
+2023-02-09T23:12:39.799Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSz5r
+  Method: POST
+2023-02-09T23:12:39.800Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuSz5r
+  Method: POST
+2023-02-09T23:12:45.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS-ZD
+  Method: GET
+2023-02-09T23:12:45.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS-ZD
+  Method: GET
+2023-02-09T23:12:45.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS-ZM
+  Method: POST
+2023-02-09T23:12:45.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuS-ZM
+  Method: POST
+2023-02-09T23:12:51.787Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT018
+  Method: GET
+2023-02-09T23:12:51.788Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT018
+  Method: GET
+2023-02-09T23:12:51.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT01H
+  Method: POST
+2023-02-09T23:12:51.796Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT01H
+  Method: POST
+2023-02-09T23:12:57.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT1Uu
+  Method: GET
+2023-02-09T23:12:57.788Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT1Uu
+  Method: GET
+2023-02-09T23:12:57.796Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT1V2
+  Method: POST
+2023-02-09T23:12:57.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT1V2
+  Method: POST
+2023-02-09T23:13:00.935Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:13:00.948Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:13:03.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT2yY
+  Method: GET
+2023-02-09T23:13:03.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT2yY
+  Method: GET
+2023-02-09T23:13:03.828Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT2zF
+  Method: POST
+2023-02-09T23:13:03.830Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT2zF
+  Method: POST
+2023-02-09T23:13:09.780Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT4QG
+  Method: GET
+2023-02-09T23:13:09.781Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT4QG
+  Method: GET
+2023-02-09T23:13:09.796Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT4QW
+  Method: POST
+2023-02-09T23:13:09.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT4QW
+  Method: POST
+2023-02-09T23:13:15.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT5u5
+  Method: GET
+2023-02-09T23:13:15.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT5u5
+  Method: GET
+2023-02-09T23:13:15.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT5uH
+  Method: POST
+2023-02-09T23:13:15.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT5uH
+  Method: POST
+2023-02-09T23:13:21.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT7Lr
+  Method: GET
+2023-02-09T23:13:21.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT7Lr
+  Method: GET
+2023-02-09T23:13:21.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT7M0
+  Method: POST
+2023-02-09T23:13:21.796Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT7M0
+  Method: POST
+2023-02-09T23:13:27.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT8pS
+  Method: GET
+2023-02-09T23:13:27.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT8pS
+  Method: GET
+2023-02-09T23:13:27.789Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT8pe
+  Method: POST
+2023-02-09T23:13:27.790Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuT8pe
+  Method: POST
+2023-02-09T23:13:33.785Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTAHM
+  Method: GET
+2023-02-09T23:13:33.786Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTAHM
+  Method: GET
+2023-02-09T23:13:33.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTAHV
+  Method: POST
+2023-02-09T23:13:33.795Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTAHV
+  Method: POST
+2023-02-09T23:13:39.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTBl5
+  Method: GET
+2023-02-09T23:13:39.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTBl5
+  Method: GET
+2023-02-09T23:13:39.794Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTBlF
+  Method: POST
+2023-02-09T23:13:39.795Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTBlF
+  Method: POST
+2023-02-09T23:13:45.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTDCv
+  Method: GET
+2023-02-09T23:13:45.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTDCv
+  Method: GET
+2023-02-09T23:13:45.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTDD2
+  Method: POST
+2023-02-09T23:13:45.797Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTDD2
+  Method: POST
+2023-02-09T23:13:51.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTEgf
+  Method: GET
+2023-02-09T23:13:51.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTEgf
+  Method: GET
+2023-02-09T23:13:51.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTEgp
+  Method: POST
+2023-02-09T23:13:51.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTEgp
+  Method: POST
+2023-02-09T23:13:57.780Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTG8H
+  Method: GET
+2023-02-09T23:13:57.781Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTG8H
+  Method: GET
+2023-02-09T23:13:57.791Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTG8R
+  Method: POST
+2023-02-09T23:13:57.792Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTG8R
+  Method: POST
+2023-02-09T23:14:03.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTHb-
+  Method: GET
+2023-02-09T23:14:03.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTHb-
+  Method: GET
+2023-02-09T23:14:03.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTHc7
+  Method: POST
+2023-02-09T23:14:03.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTHc7
+  Method: POST
+2023-02-09T23:14:06.557Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:14:06.586Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:14:09.993Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:14:09.996Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:14:10.137Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTJ3m
+  Method: GET
+2023-02-09T23:14:10.139Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTJ3m
+  Method: GET
+2023-02-09T23:14:10.175Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTJ9v
+  Method: POST
+2023-02-09T23:14:10.177Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTJ9v
+  Method: POST
+2023-02-09T23:14:15.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTKXf
+  Method: GET
+2023-02-09T23:14:15.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTKXf
+  Method: GET
+2023-02-09T23:14:15.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTKXp
+  Method: POST
+2023-02-09T23:14:15.799Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTKXp
+  Method: POST
+2023-02-09T23:14:21.776Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTL_B
+  Method: GET
+2023-02-09T23:14:21.777Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTL_B
+  Method: GET
+2023-02-09T23:14:21.790Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTL_P
+  Method: POST
+2023-02-09T23:14:21.791Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTL_P
+  Method: POST
+2023-02-09T23:14:23.722Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:14:23.723Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:14:28.976Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:14:29.003Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:14:29.071Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTNS_
+  Method: GET
+2023-02-09T23:14:29.073Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTNS_
+  Method: GET
+2023-02-09T23:14:29.099Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTNnb
+  Method: POST
+2023-02-09T23:14:29.100Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTNnb
+  Method: POST
+2023-02-09T23:14:34.790Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTPAZ
+  Method: GET
+2023-02-09T23:14:34.792Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTPAZ
+  Method: GET
+2023-02-09T23:14:34.800Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTPAj
+  Method: POST
+2023-02-09T23:14:34.801Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTPAj
+  Method: POST
+2023-02-09T23:14:40.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTQeC
+  Method: GET
+2023-02-09T23:14:40.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTQeC
+  Method: GET
+2023-02-09T23:14:40.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTQeN
+  Method: POST
+2023-02-09T23:14:40.796Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTQeN
+  Method: POST
+2023-02-09T23:14:46.783Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTS5y
+  Method: GET
+2023-02-09T23:14:46.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTS5y
+  Method: GET
+2023-02-09T23:14:46.793Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTS66
+  Method: POST
+2023-02-09T23:14:46.794Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTS66
+  Method: POST
+2023-02-09T23:14:52.788Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTTZm
+  Method: GET
+2023-02-09T23:14:52.789Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTTZm
+  Method: GET
+2023-02-09T23:14:52.797Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTTZw
+  Method: POST
+2023-02-09T23:14:52.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTTZw
+  Method: POST
+2023-02-09T23:14:58.775Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTV1K
+  Method: GET
+2023-02-09T23:14:58.776Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTV1K
+  Method: GET
+2023-02-09T23:14:58.784Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTV1T
+  Method: POST
+2023-02-09T23:14:58.785Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTV1T
+  Method: POST
+2023-02-09T23:15:02.381Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:15:02.392Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:15:04.795Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTWVA
+  Method: GET
+2023-02-09T23:15:04.798Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTWVA
+  Method: GET
+2023-02-09T23:15:04.832Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTWVw
+  Method: POST
+2023-02-09T23:15:04.834Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=3&transport=polling&t=OOuTWVw
+  Method: POST
+2023-02-09T23:15:06.709Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:15:06.731Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:15:06.732Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:15:16.205Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:15:16.831Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:15:16.866Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:15:16.868Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:15:27.121Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:15:27.154Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:15:27.156Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:30.712Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:18:30.712Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:18:35.141Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:18:35.199Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:18:39.941Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:18:39.994Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:39.998Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:40.009Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:40.011Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:41.243Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:18:41.842Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:18:41.872Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:41.874Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:41.882Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:41.883Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:48.415Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:18:48.453Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:48.455Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:18:48.465Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:48.466Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:18:59.905Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:18:59.951Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:19:02.836Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:19:02.872Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:19:02.876Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:19:10.467Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:19:10.488Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:19:16.524Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:19:17.404Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:19:17.432Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:19:17.434Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:19:51.036Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:19:51.058Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:20:13.766Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:20:13.785Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:20:39.270Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:20:39.271Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:21:26.585Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:21:26.600Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:25:15.518Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:25:15.557Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:25:19.061Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:25:19.128Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:25:19.132Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:25:21.313Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:25:21.336Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:25:21.339Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:25:27.151Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:25:27.182Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:25:27.184Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:26:36.667Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-09T23:26:36.668Z [31merror[39m: 	
+  State: 404
+  Path url: /chat
+  Method: GET
+2023-02-09T23:26:50.067Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:26:50.081Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:26:56.192Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:27:11.242Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:27:11.245Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:27:11.990Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:27:48.419Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:27:48.434Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:27:52.595Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:27:52.605Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:28:22.091Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:28:22.131Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:28:24.773Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:28:24.800Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:28:27.540Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:28:27.576Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:28:27.578Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:28:27.602Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:28:27.604Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:28:27.610Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:28:27.611Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:28:38.447Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:28:38.472Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:28:38.475Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:28:38.483Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:28:38.484Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-09T23:28:38.488Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:28:38.489Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:29:04.262Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:29:04.291Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:29:18.092Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:29:18.116Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:29:40.614Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:29:40.639Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:29:43.453Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:29:43.485Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-09T23:29:58.966Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:29:59.019Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:29:59.022Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:29:59.035Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:29:59.036Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:29:59.043Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:29:59.045Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:30:04.138Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:30:04.170Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:30:04.173Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:30:04.182Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:30:04.183Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:30:04.188Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:30:04.190Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:37:23.016Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:37:28.159Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:37:28.207Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:28.211Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:45.384Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:37:45.422Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:45.425Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:47.746Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-09T23:37:53.585Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:37:53.618Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:53.620Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:37:53.631Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:37:53.632Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:37:53.638Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:37:53.639Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:38:00.127Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:38:00.158Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:38:00.160Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:38:00.168Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:38:00.169Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:38:00.175Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:38:00.176Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:39:32.355Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:39:37.941Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:39:37.971Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:37.974Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:42.249Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:39:42.293Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:42.295Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:42.311Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:39:42.314Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:39:42.322Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:39:42.324Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:39:46.694Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:39:46.727Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:46.730Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:39:46.741Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:39:46.742Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:39:46.748Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:39:46.749Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:40:04.014Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:40:07.813Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:40:07.855Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:40:07.858Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:40:07.870Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:40:07.871Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:40:07.879Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:40:07.880Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:40:13.216Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-09T23:40:13.244Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:40:13.245Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:40:16.151Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:40:16.178Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:40:16.179Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:47:51.971Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:48:05.446Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:48:21.605Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:48:54.588Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:49:01.806Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:49:49.892Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:54:38.985Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:55:28.228Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-09T23:55:57.849Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:55:57.902Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:55:57.905Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:01.366Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-09T23:56:01.400Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:01.403Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:01.414Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:56:01.416Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:56:01.421Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:56:01.422Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:56:04.913Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-09T23:56:04.942Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:04.943Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:04.953Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:56:04.954Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-09T23:56:04.959Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:56:04.960Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-09T23:56:10.751Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-09T23:56:10.779Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-09T23:56:10.781Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:04:40.834Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:06:49.612Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:08:17.420Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:08:48.393Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:09:00.036Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:09:07.160Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:09:18.758Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:11:22.869Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:11:27.758Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:11:42.342Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:11:45.852Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:12:17.101Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:12:23.548Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:12:34.554Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:14:31.185Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:14:54.612Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:15:02.678Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-10T00:15:02.767Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:02.771Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:08.801Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-10T00:15:08.840Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:08.843Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:12.682Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-10T00:15:12.699Z [32minfo[39m: 	
+  Path url: /node_modules/normalizr/dist/normalizr.browser.min.js
+  Method: GET
+2023-02-10T00:15:12.701Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/normalizr/dist/normalizr.browser.min.js
+  Method: GET
+2023-02-10T00:15:12.708Z [32minfo[39m: 	
+  Path url: /node_modules/@popperjs/core/dist/umd/popper.min.js
+  Method: GET
+2023-02-10T00:15:12.709Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/@popperjs/core/dist/umd/popper.min.js
+  Method: GET
+2023-02-10T00:15:12.716Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-10T00:15:12.717Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-10T00:15:12.767Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:12.768Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:12.798Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:15:12.800Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:15:40.022Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:15:40.050Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-10T00:15:40.118Z [32minfo[39m: 	
+  Path url: /node_modules/normalizr/dist/normalizr.browser.min.js
+  Method: GET
+2023-02-10T00:15:40.121Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/normalizr/dist/normalizr.browser.min.js
+  Method: GET
+2023-02-10T00:15:40.128Z [32minfo[39m: 	
+  Path url: /node_modules/@popperjs/core/dist/umd/popper.min.js
+  Method: GET
+2023-02-10T00:15:40.130Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/@popperjs/core/dist/umd/popper.min.js
+  Method: GET
+2023-02-10T00:15:40.138Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-10T00:15:40.140Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-10T00:15:40.146Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:40.147Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:15:40.161Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:15:40.163Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:16:07.022Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:16:07.666Z [32minfo[39m: 	
+  Path url: /chat/chat
+  Method: GET
+2023-02-10T00:16:07.702Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:16:07.705Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:16:07.717Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-10T00:16:07.719Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-10T00:16:07.730Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:16:07.732Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:16:14.291Z [32minfo[39m: 	
+  Path url: /chat/chat?email=123%40123.com&text=123
+  Method: GET
+2023-02-10T00:16:14.322Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:16:14.324Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:16:14.336Z [32minfo[39m: 	
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-10T00:16:14.337Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/public/client.js
+  Method: GET
+2023-02-10T00:16:14.343Z [32minfo[39m: 	
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:16:14.344Z [31merror[39m: 	
+  State: 404
+  Path url: /chat/js/date_fns.min.js
+  Method: GET
+2023-02-10T00:17:07.449Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:17:51.299Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-10T00:17:51.340Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:17:51.344Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:17:51.358Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:17:51.359Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:17:58.384Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-10T00:18:02.426Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-10T00:18:02.977Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-10T00:18:05.240Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:07.497Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-10T00:18:08.207Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:18:09.568Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-10T00:18:10.531Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:11.348Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-10T00:18:11.601Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:11.724Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-10T00:18:11.948Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:12.615Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-10T00:18:12.842Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:13.732Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-10T00:18:14.353Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:18:15.967Z [32minfo[39m: 	
+  Path url: /api/cart/delete-product
+  Method: POST
+2023-02-10T00:18:16.188Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:18:16.449Z [32minfo[39m: 	
+  Path url: /api/cart/delete-product
+  Method: POST
+2023-02-10T00:18:16.691Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:18:18.331Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-10T00:18:26.287Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:28.064Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:18:28.573Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-10T00:18:30.776Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:41:44.648Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:41:54.728Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:43:30.624Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:45:04.694Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:46:32.685Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:46:37.999Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:46:54.683Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:47:02.680Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:47:07.842Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:47:49.969Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:48:27.463Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:48:55.827Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:49:06.745Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:49:09.202Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:49:15.074Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:49:19.616Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:49:57.100Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:50:17.339Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:50:24.015Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:50:27.113Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:50:27.115Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-10T00:50:28.962Z [32minfo[39m: 	
+  Path url: /api/
+  Method: GET
+2023-02-10T00:50:28.964Z [31merror[39m: 	
+  State: 404
+  Path url: /api/
+  Method: GET
+2023-02-10T00:50:33.960Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-10T00:50:33.989Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:50:33.990Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:50:33.998Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:50:33.999Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:50:40.658Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-10T00:50:40.682Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:50:40.683Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:50:40.693Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:50:40.695Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:50:42.218Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-10T00:50:45.033Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-10T00:50:45.592Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-10T00:50:46.894Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-10T00:50:47.484Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-10T00:50:48.337Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:50:49.609Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-10T00:50:50.658Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-10T00:50:56.345Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:51:09.609Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:51:10.292Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:51:10.607Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:51:10.609Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:52:45.340Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:52:48.623Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:52:49.225Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:52:49.262Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:52:49.264Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:54:29.565Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:55:10.837Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:55:13.078Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:55:13.112Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:55:13.115Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:55:54.131Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:56:00.159Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:56:01.164Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:56:01.194Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:56:01.196Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:56:17.606Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:56:22.759Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:56:24.658Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-10T00:56:26.453Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-10T00:56:26.486Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:56:26.488Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-10T00:56:26.498Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:56:26.499Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-10T00:57:24.992Z [32minfo[39m: 	
+  Path url: /?
+  Method: GET
+2023-02-10T00:57:25.017Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-10T00:57:25.019Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:00:05.612Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-12T23:00:13.384Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-12T23:00:13.578Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:00:13.582Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:00:15.961Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-12T23:00:15.987Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:00:15.990Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:00:16.544Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-12T23:00:19.009Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-12T23:00:34.402Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-12T23:13:51.573Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:13:51.574Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:20:19.992Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-12T23:22:26.092Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-12T23:23:55.214Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-12T23:25:04.643Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-12T23:26:01.113Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-12T23:26:03.907Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-12T23:26:04.660Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-12T23:26:04.928Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:26:04.930Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:26:15.469Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-12T23:26:19.923Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-12T23:26:20.715Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-12T23:26:22.586Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-12T23:26:27.772Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-12T23:26:30.247Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-12T23:26:33.726Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-12T23:26:34.419Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-12T23:26:37.265Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-12T23:26:40.559Z [32minfo[39m: 	
+  Path url: /api/chat
+  Method: GET
+2023-02-12T23:26:40.560Z [31merror[39m: 	
+  State: 404
+  Path url: /api/chat
+  Method: GET
+2023-02-12T23:26:43.283Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-12T23:26:43.477Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:26:43.478Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-12T23:26:45.550Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T00:53:16.712Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T00:53:16.904Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T00:53:16.905Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T01:39:49.332Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T01:39:51.322Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T01:39:53.653Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T01:40:33.530Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-13T01:40:33.652Z [32minfo[39m: 	
+  Path url: /error/Error%20al%20crear%20la%20cuenta%20ingrese%20otro%20usuario
+  Method: GET
+2023-02-13T01:40:36.597Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T01:40:38.290Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T01:40:46.229Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-13T01:40:49.088Z [31merror[39m: 	sendMail::: Error: getaddrinfo ENOTFOUND gmail
+2023-02-13T01:40:49.485Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T01:40:49.609Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T01:40:49.610Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T02:26:20.635Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:38:16.324Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:38:31.192Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T02:38:31.440Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T02:38:31.442Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T02:38:34.589Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:38:34.618Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:38:34.620Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:38:34.633Z [32minfo[39m: 	
+  Path url: /public/main.js
+  Method: GET
+2023-02-13T02:38:34.636Z [31merror[39m: 	
+  State: 404
+  Path url: /public/main.js
+  Method: GET
+2023-02-13T02:41:09.123Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:41:11.361Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:41:11.397Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:41:11.400Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:41:28.563Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:41:29.988Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:41:30.029Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:41:30.031Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:41:57.703Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:41:57.724Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:41:57.725Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:17.746Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:43:19.591Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:43:19.630Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:19.633Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:22.752Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:43:22.773Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:22.775Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:23.320Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:43:23.344Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:43:23.346Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T02:44:24.645Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:44:27.577Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:26.016Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:48:27.450Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:31.213Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:31.867Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:32.058Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:32.638Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T02:48:36.963Z [32minfo[39m: 	
+  Path url: /chat?
+  Method: GET
+2023-02-13T02:48:40.667Z [32minfo[39m: 	
+  Path url: /chat?
+  Method: GET
+2023-02-13T02:49:37.143Z [32minfo[39m: 	
+  Path url: /chat?
+  Method: GET
+2023-02-13T02:49:42.342Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T02:49:42.741Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:05:39.585Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:05:46.648Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:05:48.499Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:06:25.711Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:06:25.751Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:07:07.753Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:08:54.751Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:09:00.116Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:09:01.410Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:10:28.322Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:10:28.438Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:10:28.620Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:10:28.828Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:10:32.483Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:12:47.912Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:12:48.182Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:13:07.944Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T03:13:07.965Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T03:13:32.298Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:13:26.343Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:13:26.367Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:13:26.519Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:13:26.521Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:13:33.759Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:14:08.210Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:14:14.469Z [32minfo[39m: 	
+  Path url: /chat?email=asdas%40asd.com&message-type=Usuario
+  Method: GET
+2023-02-13T07:14:26.284Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:14:40.856Z [32minfo[39m: 	
+  Path url: /chat?email=asdas%40asd.com&message-type=Sistema
+  Method: GET
+2023-02-13T07:16:03.261Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:16:05.650Z [32minfo[39m: 	
+  Path url: /chat?email=asdas%40asd.com&message-type=Sistema
+  Method: GET
+2023-02-13T07:16:12.378Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:16:53.976Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:17:23.976Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:17:23.998Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:17:23.999Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:17:37.254Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:17:39.461Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:17:39.490Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:17:39.492Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:18:00.508Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:18:00.526Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:18:00.528Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:19:50.500Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:19:50.526Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:19:50.530Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:19:58.675Z [32minfo[39m: 	
+  Path url: /chat?email=asdas%40asd.com&select-message-type=Usuario
+  Method: GET
+2023-02-13T07:19:58.707Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:19:58.708Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:20:33.276Z [32minfo[39m: 	
+  Path url: /chat?email=asdas%40asd.com&select-message-type=Usuario
+  Method: GET
+2023-02-13T07:20:33.336Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:20:33.339Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:22:13.478Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:22:26.461Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:22:31.481Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:22:31.514Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:22:31.516Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:22:40.668Z [32minfo[39m: 	
+  Path url: /chat?email=123%40123.com
+  Method: GET
+2023-02-13T07:22:40.703Z [32minfo[39m: 	
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:22:40.704Z [31merror[39m: 	
+  State: 404
+  Path url: /node_modules/bootstrap/dist/js/bootstrap.min.js
+  Method: GET
+2023-02-13T07:23:20.587Z [32minfo[39m: 	
+  Path url: /chat?email=123%40123.com
+  Method: GET
+2023-02-13T07:23:33.134Z [32minfo[39m: 	
+  Path url: /chat?email=123%40123.com
+  Method: GET
+2023-02-13T07:24:37.945Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:24:37.984Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:24:37.987Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:24:39.819Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:24:43.015Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:24:43.205Z [31merror[39m: 	login::: ReferenceError: sendNewSignupMail is not defined
+2023-02-13T07:26:24.217Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:26:24.340Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:26:28.930Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:26:29.124Z [31merror[39m: 	login::: ReferenceError: sendNewSignupMail is not defined
+2023-02-13T07:26:44.350Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:26:45.914Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:26:49.291Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:26:49.490Z [31merror[39m: 	login::: ReferenceError: sendNewSignupMail is not defined
+2023-02-13T07:28:16.042Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:28:16.410Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:28:16.932Z [31merror[39m: 	login::: ReferenceError: res is not defined
+2023-02-13T07:32:27.349Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:32:27.797Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:32:31.476Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:32:31.677Z [31merror[39m: 	login::: ReferenceError: sendNewSignupMail is not defined
+2023-02-13T07:32:40.551Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:32:45.740Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:32:48.384Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:32:48.592Z [31merror[39m: 	login::: ReferenceError: sendNewSignupMail is not defined
+2023-02-13T07:33:08.390Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:33:09.387Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:33:13.462Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:35:15.521Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:35:17.595Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:35:21.082Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:35:36.466Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:35:38.075Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:35:41.224Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:39:34.359Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:39:38.383Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:39:41.183Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:39:41.759Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:46:07.232Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:46:18.887Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:46:18.888Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T07:46:20.092Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:46:20.126Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:46:20.129Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:46:20.379Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:46:22.833Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:46:23.413Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:46:29.169Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:46:39.997Z [32minfo[39m: 	
+  Path url: /chat?email=123%40123.com
+  Method: GET
+2023-02-13T07:51:01.242Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:51:04.944Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:51:04.991Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:51:04.995Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:51:06.575Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:51:08.711Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:51:09.286Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:51:12.381Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:52:58.348Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:52:58.432Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:56:18.208Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:56:29.532Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:56:50.955Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:56:51.066Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:56:58.252Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:56:58.515Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:56:58.551Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:56:58.555Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:57:00.466Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:57:02.666Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:57:03.346Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:57:06.114Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:57:09.991Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:57:27.900Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:57:28.525Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T07:57:28.687Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:57:28.690Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T07:57:29.626Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T07:57:31.961Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T07:57:32.500Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T07:57:35.454Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T07:58:03.994Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T07:58:10.408Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:02:23.188Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:02:27.106Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:02:27.174Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:02:27.178Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:02:28.488Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:02:31.128Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:02:31.672Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:02:34.497Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:05:04.622Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:05:08.436Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:05:08.496Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:05:08.499Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:05:09.603Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:05:12.890Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:05:13.460Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:05:15.288Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:07:16.606Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:07:17.140Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:09:14.770Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:09:17.578Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:09:19.560Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:09:19.600Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:09:19.602Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:09:20.648Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:09:23.155Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:09:23.717Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:09:27.775Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:09:51.536Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:09:52.163Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:09:52.330Z [32minfo[39m: 	
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:09:52.332Z [31merror[39m: 	
+  State: 404
+  Path url: /client.js
+  Method: GET
+2023-02-13T08:09:53.057Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:09:55.193Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:09:55.739Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:09:57.098Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T08:10:03.636Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:10:10.639Z [32minfo[39m: 	
+  Path url: /chat?email=123%40123.com
+  Method: GET
+2023-02-13T08:26:22.399Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-13T08:26:31.707Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:26:34.711Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:26:35.922Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:26:38.461Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:26:39.016Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:26:42.098Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:26:42.209Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:26:42.211Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:26:42.436Z [32minfo[39m: 	
+  Path url: /message.js
+  Method: GET
+2023-02-13T08:26:42.437Z [31merror[39m: 	
+  State: 404
+  Path url: /message.js
+  Method: GET
+2023-02-13T08:28:00.703Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:28:00.731Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:28:00.732Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:28:00.739Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:28:00.741Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:28:13.666Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-13T08:28:36.764Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:28:44.494Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:28:45.739Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:28:51.304Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:28:51.852Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:28:55.262Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:28:55.399Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:28:55.401Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:28:55.409Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:28:55.410Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:30:33.191Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:30:34.082Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:30:34.123Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:30:34.124Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:30:34.131Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:30:34.133Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:31:23.720Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:31:24.648Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:31:24.681Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:31:24.683Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:31:24.695Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:31:24.697Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:31:40.339Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:31:40.360Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:31:40.420Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:31:40.422Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:32:01.642Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:32:01.662Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:34:33.010Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-13T08:34:40.644Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:34:41.205Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:34:43.083Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:34:48.399Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:34:49.024Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:34:51.146Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:45:46.236Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:45:50.913Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:45:52.305Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:45:55.585Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:45:56.150Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:45:57.435Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:45:57.563Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:45:57.565Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:46:15.404Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:46:15.539Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:46:15.540Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:46:58.274Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:46:58.967Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T08:47:00.153Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T08:47:02.726Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T08:47:03.282Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T08:47:04.675Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:47:04.815Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:47:04.816Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:50:19.393Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:50:27.160Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:50:27.208Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:50:27.209Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:51:16.655Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:51:16.679Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:51:16.680Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:51:29.294Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:51:37.919Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:51:37.960Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:51:37.962Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:52:28.532Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:52:28.712Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:52:28.768Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:52:28.772Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:53:45.053Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:53:45.584Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:53:45.622Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:53:45.625Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:54:00.380Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:54:00.441Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:54:00.482Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:54:00.484Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:54:39.896Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:54:40.395Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:54:40.429Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:54:40.432Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:56:02.089Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:56:02.270Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:56:02.315Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:56:02.318Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:56:18.438Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:56:18.495Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:56:18.525Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:56:18.528Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:56:59.996Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:57:02.980Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:57:03.029Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:57:03.031Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:57:03.047Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:57:03.048Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:57:35.175Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:57:35.199Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:57:35.201Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:57:35.213Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:57:35.215Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:57:35.224Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:57:35.226Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:31.565Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T08:59:38.012Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:38.056Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:38.058Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:38.071Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:38.072Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:38.081Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:38.083Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:43.708Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:43.732Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:43.734Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:43.742Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:43.744Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:43.750Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:43.752Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.140Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:44.162Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.163Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.171Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.172Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.178Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.180Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.399Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:44.425Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.426Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.435Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.436Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.443Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.444Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.592Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:44.611Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.612Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.621Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.622Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.627Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.628Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.780Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:44.800Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.801Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.809Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.810Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:44.816Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.818Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:44.969Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:44.993Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:44.994Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:45.002Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:45.003Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:45.009Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:45.010Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:45.123Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T08:59:45.142Z [32minfo[39m: 	
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:45.143Z [31merror[39m: 	
+  State: 404
+  Path url: /styles/message.style.css
+  Method: GET
+2023-02-13T08:59:45.149Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:45.150Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T08:59:45.158Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T08:59:45.158Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:19.788Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:01:19.818Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:19.819Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:19.827Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:19.829Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:20.477Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:01:20.504Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:20.505Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:20.511Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:20.513Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:40.347Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:01:40.371Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:01:40.373Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:01:40.381Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:40.383Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:40.390Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:40.392Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:45.603Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T09:01:49.569Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T09:01:50.182Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T09:01:51.705Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:01:51.830Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:01:51.831Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:01:51.837Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:51.838Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:01:52.120Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:01:52.121Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:02:52.699Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:02:52.844Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:02:52.901Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:02:52.905Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:02:52.917Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:02:52.918Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:02:52.927Z [32minfo[39m: 	
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:02:52.929Z [31merror[39m: 	
+  State: 404
+  Path url: /public/client.js
+  Method: GET
+2023-02-13T09:03:04.054Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:03:04.205Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:03:04.263Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:04.265Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:04.273Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:03:04.274Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:03:23.128Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:03:23.157Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:03:23.227Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:23.229Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:23.237Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:03:23.238Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:03:38.154Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:03:40.298Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:03:40.332Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:40.336Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:03:40.343Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:03:40.344Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:02.905Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:04:03.017Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:03.056Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:03.058Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:03.087Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:03.088Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:03.787Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:03.813Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:03.814Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:03.820Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:03.821Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.180Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:04.198Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.199Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.207Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.208Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.387Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:04.406Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.407Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.414Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.415Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.533Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:04.551Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.552Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.560Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.561Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.745Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:04.802Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.803Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.812Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.812Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.871Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:04.889Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.891Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:04.899Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:04.899Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:05.016Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:04:05.034Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:05.035Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:04:05.042Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:04:05.043Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:05:53.937Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:05:53.959Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:05:53.960Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:05:53.969Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:05:53.970Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:07:49.095Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:07:49.865Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:07:49.905Z [32minfo[39m: 	
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:07:49.907Z [31merror[39m: 	
+  State: 404
+  Path url: /public/styles/message.style.css
+  Method: GET
+2023-02-13T09:07:49.919Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:07:49.920Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:15.598Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:15.632Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:15.634Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.086Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:16.111Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.113Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.257Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:16.278Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.279Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.415Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:16.434Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:16.436Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:17.343Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:17.364Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:17.365Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:17.807Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:17.831Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:17.832Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:33.303Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:08:33.404Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:45.995Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:08:46.019Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:08:46.022Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:11:05.826Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-13T09:12:33.965Z [31merror[39m: 	Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+2023-02-13T09:12:40.062Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:12:40.277Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=4&transport=polling&t=OPA33Wy
+  Method: GET
+2023-02-13T09:12:40.279Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=4&transport=polling&t=OPA33Wy
+  Method: GET
+2023-02-13T09:12:45.310Z [32minfo[39m: 	
+  Path url: /socket.io/?EIO=4&transport=polling&t=OPA34lw
+  Method: GET
+2023-02-13T09:12:45.312Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/?EIO=4&transport=polling&t=OPA34lw
+  Method: GET
+2023-02-13T09:12:47.954Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:12:47.981Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:12:47.982Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:12:57.283Z [32minfo[39m: 	
+  Path url: /message
+  Method: GET
+2023-02-13T09:12:57.284Z [31merror[39m: 	
+  State: 404
+  Path url: /message
+  Method: GET
+2023-02-13T09:13:10.744Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:13:10.760Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:13:10.761Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:13:11.334Z [32minfo[39m: 	
+  Path url: /ca
+  Method: GET
+2023-02-13T09:13:11.336Z [31merror[39m: 	
+  State: 404
+  Path url: /ca
+  Method: GET
+2023-02-13T09:13:15.543Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:13:15.613Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:13:15.613Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:17:22.050Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T09:17:23.254Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T09:17:23.302Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:17:23.304Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T09:17:30.449Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T09:17:31.174Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T09:17:33.076Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T09:17:33.434Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:08:50.393Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:08:56.023Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:08:59.878Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:09:03.140Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:09:03.746Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:09:06.063Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:09:06.211Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:09:06.212Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:09:16.477Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:09:19.856Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:09:32.220Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:09:37.880Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:09:42.130Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T14:09:44.847Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:09:59.769Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:10:01.524Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:10:01.778Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:10:02.509Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:10:02.759Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:10:05.473Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:10:11.909Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:10:13.218Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:10:17.357Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:10:19.610Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:10:20.870Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:10:22.954Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:10:22.955Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:13:07.371Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:13:07.950Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:13:09.014Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:13:11.274Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:13:11.839Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:13:14.132Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:13:15.793Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:13:17.198Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:13:17.463Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:13:19.303Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:13:22.898Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:13:24.518Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:13:24.518Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:19:00.477Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:19:05.573Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:19:06.544Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:19:11.954Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:19:12.546Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:19:14.832Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:19:15.823Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:19:16.679Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:19:16.955Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:19:17.688Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:19:19.482Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:19:20.430Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:19:20.664Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:19:21.817Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:19:22.730Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:19:24.751Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:19:24.752Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:23:18.902Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:23:28.529Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:23:29.947Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:23:34.905Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:23:35.495Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:23:37.428Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:23:38.353Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:23:39.228Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:23:39.499Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:23:39.560Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:23:39.787Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:23:40.876Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:23:41.771Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:23:43.959Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:23:44.206Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:23:44.546Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:23:45.533Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:23:47.595Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:23:47.596Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:28:03.594Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:28:11.178Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:28:12.311Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:28:14.661Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:28:15.230Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:28:16.623Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:28:17.940Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:28:18.782Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:28:19.043Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:28:19.267Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:28:19.511Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:28:20.229Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:28:22.163Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:28:23.795Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:28:23.796Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:29:20.346Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:29:48.404Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:29:55.427Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:29:56.878Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:29:59.200Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:29:59.778Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:30:00.800Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:30:03.336Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:30:03.488Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:30:03.490Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:30:04.193Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:30:06.759Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:30:07.091Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:30:08.372Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:09.301Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:30:09.441Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:30:09.442Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:30:10.807Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:30:11.589Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:30:12.700Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:30:13.278Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:30:14.051Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:30:17.945Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:30:18.263Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:30:19.942Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:30:21.562Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:30:24.100Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:24.982Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:30:25.278Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:30:25.542Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:25.885Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:30:26.126Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:26.518Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:30:26.752Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:27.302Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T14:30:27.537Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:30:29.576Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:30:30.963Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:30:34.352Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T14:30:36.010Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T14:30:36.011Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T14:32:15.349Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:32:15.350Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:32:16.264Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:32:18.826Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:32:19.155Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:32:20.509Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:32:21.913Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:32:22.403Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:32:22.552Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:32:22.553Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:32:27.173Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:32:29.544Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:32:29.867Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:33:31.093Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:33:31.096Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:33:45.737Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:33:45.899Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:33:45.901Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:33:48.512Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:33:52.598Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:33:53.173Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:33:54.426Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:33:55.124Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:33:55.254Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:33:55.255Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:35:57.564Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:35:57.565Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:35:58.178Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:36:00.882Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:36:01.043Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-13T14:36:02.338Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:36:04.458Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:36:04.769Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:36:06.067Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:36:06.182Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:36:06.183Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:37:45.870Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:37:46.046Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:37:46.911Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:37:50.761Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:37:51.331Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:37:52.644Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:37:52.791Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:37:52.793Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:38:12.629Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:38:13.283Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:38:14.005Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:38:16.419Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:38:16.970Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:38:18.204Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:38:18.350Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:38:18.352Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:41:43.427Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:41:43.559Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:41:47.332Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:41:50.106Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:41:50.680Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:41:52.060Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:41:52.202Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:41:52.203Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:41:55.169Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:41:57.219Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:41:59.884Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:42:00.205Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:42:04.669Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:42:42.005Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:43:00.103Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:43:58.368Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:44:01.291Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T14:44:03.717Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:44:08.072Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:44:08.637Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:44:09.935Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:45:52.805Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:45:54.794Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:45:54.796Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:45:57.161Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:45:59.746Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:46:00.307Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:46:01.303Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:46:01.425Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:46:01.426Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:46:16.690Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:46:21.496Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:46:24.840Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:46:24.986Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:46:24.987Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:46:26.108Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:49:29.001Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T14:49:32.894Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:49:35.603Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:49:36.191Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:49:39.535Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:49:42.211Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:49:44.958Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:49:47.282Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:51:09.152Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-13T14:51:09.154Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:51:10.926Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:51:13.553Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:51:13.860Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:51:15.386Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:51:31.065Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-13T14:51:31.076Z [32minfo[39m: 	producto creado
+2023-02-13T14:51:31.165Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:51:59.776Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:51:59.926Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:51:59.927Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:52:00.366Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:52:02.707Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:52:20.149Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-13T14:52:20.150Z [32minfo[39m: 	producto creado
+2023-02-13T14:52:20.231Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:55:39.213Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:55:39.214Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T14:55:40.248Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T14:55:43.316Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T14:55:43.652Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T14:55:47.679Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:56:12.458Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: POST
+2023-02-13T14:56:12.459Z [32minfo[39m: 	producto creado
+2023-02-13T14:56:12.542Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:19.550Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:21.030Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:56:21.190Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:56:21.191Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:56:21.643Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:56:22.412Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:56:29.793Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T14:56:32.870Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T14:56:33.018Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:56:33.019Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T14:56:33.663Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:35.719Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:44.296Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:50.533Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T14:56:51.655Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T14:56:52.372Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T14:56:54.993Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-13T14:56:55.054Z [32minfo[39m: 	logout successfully
+2023-02-13T14:58:58.431Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T15:00:24.444Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T15:00:27.562Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T15:00:28.929Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:00:31.343Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:00:31.934Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T15:00:35.334Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:00:36.953Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T15:00:37.226Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:00:37.391Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T15:00:37.630Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:00:40.799Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T15:00:42.455Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T15:00:44.466Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T15:00:44.466Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T15:45:06.078Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T15:45:09.964Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T15:45:12.659Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:45:15.632Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:45:16.198Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T15:45:21.102Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T15:45:25.810Z [32minfo[39m: 	
+  Path url: /logout
+  Method: GET
+2023-02-13T15:45:25.860Z [32minfo[39m: 	logout successfully
+2023-02-13T15:45:26.965Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:45:28.148Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T15:46:05.481Z [32minfo[39m: 	
+  Path url: /signup
+  Method: POST
+2023-02-13T15:46:07.494Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T15:46:07.651Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T15:46:10.251Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:46:13.011Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:46:13.126Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-13T15:46:14.499Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:46:16.746Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:46:16.866Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-13T15:46:18.539Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:46:21.101Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:46:21.225Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-13T15:46:38.462Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T15:46:43.707Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T15:46:44.021Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T15:46:45.277Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T15:46:48.655Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T15:46:48.752Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T15:46:48.757Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T15:46:49.520Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:46:53.483Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T15:46:53.760Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:46:54.749Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T15:46:54.989Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:46:56.336Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T15:46:57.469Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T15:47:11.524Z [32minfo[39m: 	
+  Path url: /api/order
+  Method: POST
+2023-02-13T15:47:13.025Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T15:47:13.025Z [31merror[39m: 	orderSendMail:::undefined
+2023-02-13T16:05:07.297Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:05:07.925Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:05:09.497Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T16:05:09.499Z [31merror[39m: 	
+  State: 404
+  Path url: /login
+  Method: GET
+2023-02-13T16:05:12.225Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:06:01.985Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:06:10.063Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:06:10.317Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:06:10.693Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:06:21.321Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T16:06:30.496Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:06:46.987Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:06:47.034Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:06:47.037Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:06:52.397Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:06:52.427Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:06:52.429Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:06:55.374Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:06:57.188Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T16:07:14.036Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:07:14.965Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:07:27.035Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:07:27.157Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:07:31.227Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:07:31.267Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:07:31.269Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:08:17.580Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:08:22.852Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:08:26.646Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:08:26.808Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:08:26.810Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:08:27.703Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:08:28.273Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T16:08:29.435Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T16:08:35.029Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:08:59.096Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:08:59.432Z [32minfo[39m: 	
+  Path url: /login
+  Method: GET
+2023-02-13T16:09:02.667Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T16:09:03.252Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:09:04.282Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:09:04.391Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:09:04.393Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:09:06.210Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:09:07.645Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:09:11.103Z [32minfo[39m: 	
+  Path url: /api/cart/1
+  Method: GET
+2023-02-13T16:09:11.104Z [31merror[39m: 	
+  State: 404
+  Path url: /api/cart/1
+  Method: GET
+2023-02-13T16:09:13.053Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:09:32.821Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:09:38.663Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:09:43.172Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:09:49.650Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:09:55.658Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:09:58.611Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:10:05.532Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:10:06.184Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:10:06.366Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:10:08.450Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:10:13.527Z [32minfo[39m: 	
+  Path url: /signup
+  Method: GET
+2023-02-13T16:10:27.528Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:10:40.650Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:10:46.074Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:10:47.376Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:10:47.514Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:10:47.515Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:10:49.828Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:10:49.960Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:10:49.961Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:10:51.502Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:10:53.602Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:10:53.749Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:10:53.750Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:11:18.192Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:11:21.565Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:11:24.132Z [32minfo[39m: 	
+  Path url: /login
+  Method: POST
+2023-02-13T16:11:24.133Z [31merror[39m: 	
+  State: 404
+  Path url: /login
+  Method: POST
+2023-02-13T16:11:29.341Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:11:30.148Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:11:39.845Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:12:02.554Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:12:03.321Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:12:03.392Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:12:05.778Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:12:06.159Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:12:09.264Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T16:12:11.130Z [32minfo[39m: 	
+  Path url: /auth/logout
+  Method: GET
+2023-02-13T16:12:11.190Z [32minfo[39m: 	logout successfully
+2023-02-13T16:12:15.543Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:12:17.010Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:12:17.097Z [32minfo[39m: 	
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:12:17.100Z [31merror[39m: 	
+  State: 404
+  Path url: /auth/client.js
+  Method: GET
+2023-02-13T16:12:30.027Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:12:36.805Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:12:41.387Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:12:50.139Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:14:35.374Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:14:39.792Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:14:40.947Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:14:52.980Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:14:53.093Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: GET
+2023-02-13T16:15:24.211Z [32minfo[39m: 	
+  Path url: /auth/signup
+  Method: POST
+2023-02-13T16:15:26.529Z [32minfo[39m: 	sendMail::: [object Object]
+2023-02-13T16:15:26.902Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:15:29.096Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:15:52.467Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:15:52.784Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:15:57.966Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T16:16:05.107Z [32minfo[39m: 	
+  Path url: /auth/logout
+  Method: GET
+2023-02-13T16:16:05.153Z [32minfo[39m: 	logout successfully
+2023-02-13T16:16:20.481Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:16:25.365Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:16:25.674Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:16:26.653Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:16:26.760Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:16:26.761Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:16:27.479Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:16:46.248Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:16:46.288Z [31merror[39m: 	Codigo error: undefined | Error al obtener el producto por id: ReferenceError: productById is not defined
+2023-02-13T16:17:42.878Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:17:45.264Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:18:34.089Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:18:35.679Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:18:35.720Z [31merror[39m: 	Codigo error: undefined | Error al obtener el producto por id: ReferenceError: userLog is not defined
+2023-02-13T16:18:52.498Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:18:53.244Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:19:31.184Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:19:37.468Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:19:40.392Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:19:41.632Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:20:30.175Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:20:30.869Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: GET
+2023-02-13T16:24:27.266Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:24:27.268Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:24:43.110Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:24:44.291Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:24:46.459Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:24:47.060Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:24:50.065Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:24:50.066Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:24:58.050Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:25:03.287Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:25:03.288Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:26:24.063Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:26:25.676Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:26:28.577Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:26:28.890Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:26:29.911Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T16:26:34.851Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:35:52.642Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:35:55.740Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:35:56.990Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:36:00.067Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:36:00.677Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:36:15.237Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:38:04.779Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:38:04.781Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:38:05.452Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:38:05.768Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:38:08.070Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:38:08.392Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:40:05.195Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:40:05.196Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:40:15.261Z [32minfo[39m: 	
+  Path url: /auth/logout
+  Method: GET
+2023-02-13T16:40:15.263Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:40:16.099Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:40:18.940Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:40:19.247Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:40:20.934Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:40:20.935Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:40:28.082Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:41:38.021Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:41:42.226Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:41:43.473Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:41:45.438Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:41:45.639Z [32minfo[39m: 	
+  Path url: /error/Error:%20usuario%20o%20contrase%C3%B1a%20incorrecta
+  Method: GET
+2023-02-13T16:41:46.666Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:41:48.597Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:41:49.122Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:41:50.515Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:41:53.480Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:42:26.119Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:42:26.747Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:42:26.918Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:42:27.002Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:42:27.143Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:42:27.146Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:42:28.171Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:42:31.568Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:43:55.720Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:43:55.794Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:43:55.795Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:43:55.811Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:43:55.812Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:43:56.768Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:43:57.046Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:44:02.772Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:44:03.327Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:44:08.423Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:44:28.294Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:44:30.011Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:44:34.529Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:44:35.590Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:44:37.688Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:44:38.242Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:44:43.373Z [32minfo[39m: 	
+  Path url: /api/product/63e56e1efe825416d2f56d16
+  Method: PUT
+2023-02-13T16:44:43.375Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:45:35.833Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:47:54.684Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:47:54.685Z [31merror[39m: 	auth::: Para acceder a esta URL debe iniciar sesión
+2023-02-13T16:47:55.402Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:47:55.643Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:48:00.325Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:48:00.889Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:48:01.868Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:48:02.814Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:48:03.997Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:48:05.022Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:48:05.940Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:48:06.883Z [32minfo[39m: 	
+  Path url: /api/cart/add-product
+  Method: POST
+2023-02-13T16:48:07.144Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:48:07.441Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:48:10.179Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:48:11.032Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:48:11.142Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:48:11.144Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:48:11.667Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:48:14.286Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:48:22.045Z [32minfo[39m: 	
+  Path url: /api/cart/63e56e1efe825416d2f56d16/product
+  Method: GET
+2023-02-13T16:48:25.060Z [32minfo[39m: 	
+  Path url: /api/cart/63e56e1efe825416d2f56d16/
+  Method: GET
+2023-02-13T16:48:25.061Z [31merror[39m: 	
+  State: 404
+  Path url: /api/cart/63e56e1efe825416d2f56d16/
+  Method: GET
+2023-02-13T16:48:28.475Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:50:19.494Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET
+2023-02-13T16:50:22.166Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: POST
+2023-02-13T16:50:22.480Z [32minfo[39m: 	
+  Path url: /welcome
+  Method: GET
+2023-02-13T16:50:23.805Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:51:16.503Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:51:18.301Z [32minfo[39m: 	
+  Path url: /api/cart/delete-product
+  Method: POST
+2023-02-13T16:51:18.529Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:51:20.196Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:51:21.071Z [32minfo[39m: 	
+  Path url: /chat
+  Method: GET
+2023-02-13T16:51:21.219Z [32minfo[39m: 	
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:51:21.220Z [31merror[39m: 	
+  State: 404
+  Path url: /socket.io/socket.io.js
+  Method: GET
+2023-02-13T16:51:22.098Z [32minfo[39m: 	
+  Path url: /add-product
+  Method: GET
+2023-02-13T16:51:23.227Z [32minfo[39m: 	
+  Path url: /api/cart
+  Method: GET
+2023-02-13T16:51:23.942Z [32minfo[39m: 	
+  Path url: /profile
+  Method: GET
+2023-02-13T16:51:24.621Z [32minfo[39m: 	
+  Path url: /api/product
+  Method: GET
+2023-02-13T16:54:27.984Z [32minfo[39m: 	Servidor http en puerto: 8080
+2023-02-13T16:58:30.813Z [32minfo[39m: 	
+  Path url: /
+  Method: GET
+2023-02-13T16:58:32.123Z [32minfo[39m: 	
+  Path url: /auth/login
+  Method: GET

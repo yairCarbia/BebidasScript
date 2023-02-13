@@ -1,0 +1,255 @@
+body {
+  margin-top: 1px;
+}
+
+.card {
+  transition: .5s;
+  border: 0;
+  margin-bottom: 30px;
+  border-radius: .55rem;
+  position: relative;
+  width: 100%;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
+}
+
+.message-app .people-list {
+  width: 300px;
+  position: relative;
+  left: 0;
+  top: 0;
+  padding: 20px;
+  z-index: 7
+}
+
+.message-app .message {
+  margin-left: 280px;
+  border-left: 1px solid #eaeaea
+}
+
+.people-list {
+  -moz-transition: .5s;
+  -o-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s
+}
+
+.people-list .message-list li {
+  padding: 10px 15px;
+  list-style: none;
+  border-radius: 3px
+}
+
+.people-list .message-list li:hover {
+  background: #efefef;
+  cursor: pointer
+}
+
+.people-list .message-list li.active {
+  background: #efefef
+}
+
+.people-list .message-list li .name {
+  font-size: 15px
+}
+
+.people-list .message-list img {
+  width: 45px;
+  border-radius: 50%
+}
+
+.people-list img {
+  float: left;
+  border-radius: 50%
+}
+
+.people-list .about {
+  float: left;
+  padding-left: 8px
+}
+
+.people-list .status {
+  color: #999;
+  font-size: 13px
+}
+
+.message .message-header {
+  padding: 15px 20px;
+  border-bottom: 2px solid #f4f7f6
+}
+
+.message .message-header img {
+  float: left;
+  border-radius: 40px;
+  width: 40px
+}
+
+.message .message-history {
+  padding: 20px;
+  border-bottom: 2px solid #fff
+}
+
+.message .message-history ul {
+  padding: 0
+}
+
+.message .message-history ul li {
+  list-style: none;
+  margin-bottom: 30px
+}
+
+.message .message-history ul li:last-child {
+  margin-bottom: 0px
+}
+
+.message .message-history .message-data {
+  margin-bottom: 15px
+}
+
+.message .message-history .message-data img {
+  border-radius: 40px;
+  width: 40px
+}
+
+.message .message-history .message-data-time {
+  color: #434651;
+  padding-left: 6px
+}
+
+.message .message-history .message {
+  color: #444;
+  padding: 18px 20px;
+  line-height: 26px;
+  font-size: 16px;
+  border-radius: 7px;
+  display: inline-block;
+  position: relative
+}
+
+.message .message-history .message:after {
+  bottom: 100%;
+  left: 7%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-bottom-color: #fff;
+  border-width: 10px;
+  margin-left: -10px
+}
+
+.message .message-history .my-message {
+  background: #efefef
+}
+
+.message .message-history .my-message:after {
+  bottom: 100%;
+  left: 30px;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-bottom-color: #efefef;
+  border-width: 10px;
+  margin-left: -10px
+}
+
+.message .message-history .other-message {
+  background: #e8f1f3;
+  text-align: right
+}
+
+.message .message-history .other-message:after {
+  border-bottom-color: #e8f1f3;
+  left: 93%
+}
+
+.message .chat-message {
+  padding: 20px
+}
+
+.online, .offline, .me {
+  margin-right: 2px;
+  font-size: 8px;
+  vertical-align: middle
+}
+
+.online {
+  color: #86c541
+}
+
+.offline {
+  color: #e47297
+}
+
+.me {
+  color: #1d8ecd
+}
+
+.float-right {
+  float: right
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0
+}
+
+@media only screen and (max-width: 767px) {
+  .message-app .people-list {
+    height: 465px;
+    width: 100%;
+    overflow-x: auto;
+    background: #fff;
+    left: -400px;
+    display: none
+  }
+
+  .message-app .people-list.open {
+    left: 0
+  }
+
+  .message-app .message {
+    margin: 0
+  }
+
+  .message-app .message .message-header {
+    border-radius: 0.55rem 0.55rem 0 0
+  }
+
+  .message-app .message-history {
+    height: 300px;
+    overflow-x: auto
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .message-app .message-list {
+    height: 650px;
+    overflow-x: auto
+  }
+
+  .message-app .message-history {
+    height: 600px;
+    overflow-x: auto
+  }
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
+  .message-app .message-list {
+    height: 480px;
+    overflow-x: auto
+  }
+
+  .message-app .message-history {
+    height: calc(100vh - 350px);
+    overflow-x: auto
+  }
+}
